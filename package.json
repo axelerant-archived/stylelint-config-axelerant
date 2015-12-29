@@ -1,0 +1,26 @@
+{
+  "name": "stylelint-config-axelerant",
+  "version": "0.1.0",
+  "author": "Bassam Ismail <skippednote@gmail.com>",
+  "description": "Axelerant's stylelint configurations",
+  "main": "index.js",
+  "keywords": [
+    "stylelint",
+    "axelerant",
+    "config"
+  ],
+  "homepage": "https://github.com/axelerant/stylelint-config-axelerant",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axelerant/stylelint-config-axelerant"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint"
+  },
+  "peerDependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3"
+  }
+}
