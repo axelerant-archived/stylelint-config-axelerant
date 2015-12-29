@@ -15,12 +15,7 @@
     "type": "git",
     "url": "https://github.com/axelerant/stylelint-config-axelerant"
   },
-  "scripts": {
-    "lint": "eslint .",
-    "test": "npm run lint"
-  },
   "peerDependencies": {
-    "babel-eslint": "^4.1.6",
-    "eslint": "^1.10.3"
+    "stylelint": "^3.1.4"
   }
 }
