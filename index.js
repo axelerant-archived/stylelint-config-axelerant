@@ -1,6 +1,6 @@
 module.exports = {
   rules: {
-    "at-rule-empty-line-before": ["always", {except: ["blockless-group"]}],
+    "at-rule-empty-line-before": "always",
     "block-closing-brace-newline-after": "always",
     "block-closing-brace-newline-before": "always",
     "block-no-empty": true,

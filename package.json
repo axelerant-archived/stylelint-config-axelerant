@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-axelerant",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Bassam Ismail <skippednote@gmail.com>",
   "description": "Axelerant's stylelint configurations",
   "main": "index.js",
