@@ -43,7 +43,7 @@ module.exports = {
     "no-eol-whitespace": true,
     "no-missing-eof-newline": true,
     "number-leading-zero": "always",
-    "number-max-precision": 2,
+    "number-max-precision": 4,
     "number-no-trailing-zeros": true,
     "number-zero-length-no-unit": true,
     "root-no-standard-properties": true,
