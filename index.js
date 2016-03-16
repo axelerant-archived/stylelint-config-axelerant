@@ -59,7 +59,6 @@ module.exports = {
     "selector-list-comma-newline-before": "never-multi-line",
     "selector-list-comma-space-after": "always-single-line",
     "selector-list-comma-space-before": "never",
-    "selector-no-attribute": true,
     "selector-pseudo-element-colon-notation": "double",
     "selector-root-no-composition": true,
     "string-quotes": "double",
